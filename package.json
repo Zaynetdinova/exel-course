@@ -1,0 +1,24 @@
+{
+  "name": "exel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaynetdinova/exel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exsel"
+  ],
+  "author": "Ilmira Zaynetdinova <ilmirazainetdinova686@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaynetdinova/exel-course/issues"
+  },
+  "homepage": "https://github.com/Zaynetdinova/exel-course#readme"
+}
